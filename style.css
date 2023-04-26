@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* text-align: center; */
+}
+canvas {
+  display: block;
+  /* margin: auto; */
+}
+
+/* para centralizar - descomentar linhas 4 e 8  */
